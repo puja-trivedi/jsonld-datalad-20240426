@@ -1,0 +1,1 @@
+0eb401e2-c465-4676-b252-0fafbbfd3366 bucket=jsonld-files-20240426 datacenter=US encryption=none host=s3.amazonaws.com name=public-s3 port=80 public=no storageclass=STANDARD type=S3 timestamp=1714157902s
